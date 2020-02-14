@@ -10,3 +10,8 @@ According to the article, there has been a 1,400% growth in company interview de
 
 ## Forked Comment
 With VR growing so fast in recent years, including headsets quickly moving from requiring cameras all around the room and wires everywhere to just the headset with wirelss connectivity, it's not too surprising that the demand for software engineers is increasing, but the rate at which requests are increasing is still pretty amazing. 
+
+# comment by Zhen Qi 
+omg hi! i relate to your interest about AR/VR because it has also been something that i am pursuing. have you checked out the interactive computing course (cas) or the game design department at tisch (370 jay street) i know they have a bunch of AR courses!
+creative coding is something that i am moving towards, and it's really great to hear that there has been a growth for AR/VR engineers (although to be honest i've not heard of the term engineers to describe people who do VR)...or it's just not as common in the CS department in school.
+i also really like the idea of "effortless AR" or "everyday AR" and i think there seem to be more apps for consumers to be exposed to and even create their own elements and projects, but it hasn't really caught up yet. 
