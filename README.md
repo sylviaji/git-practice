@@ -1,4 +1,4 @@
-﻿# Git Practice Assignment
+# Git Practice Assignment
 
 ## Link
 [How tech companies are trying to make augmented and virtual reality a thing, again](https://www.vox.com/recode/2020/2/11/21121275/augmented-virtual-reality-hiring-software-engineers-hired)
@@ -15,3 +15,6 @@ With VR growing so fast in recent years, including headsets quickly moving from 
 omg hi! i relate to your interest about AR/VR because it has also been something that i am pursuing. have you checked out the interactive computing course (cas) or the game design department at tisch (370 jay street) i know they have a bunch of AR courses!
 creative coding is something that i am moving towards, and it's really great to hear that there has been a growth for AR/VR engineers (although to be honest i've not heard of the term engineers to describe people who do VR)...or it's just not as common in the CS department in school.
 i also really like the idea of "effortless AR" or "everyday AR" and i think there seem to be more apps for consumers to be exposed to and even create their own elements and projects, but it hasn't really caught up yet. 
+
+##comment by Lin He
+VR is a a new way of entertainment, but how to bring VR to people's everyday life and how to play VR games as we play games on smartphone or computer still have a long way to go.
